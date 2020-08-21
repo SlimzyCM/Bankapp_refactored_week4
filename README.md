@@ -1,4 +1,16 @@
-# Bankapp_refactored_week4
-- Refactored my Week 2 Assignment Of A bank operation using OOP
-- Created a Test Solution for the app in practice of "The Art Of Unit Testing"
-- Applied Nunit Testing
+# The Art of Unit Testing
+_Nunit Testing_
+ 
+### Refactor the banking application created in week 2 into: 
+- Class Libraries 
+- Helper classes 
+- Test projects 
+ 
+### Implemented testing for the major functionalities:
+- Login 
+- Register 
+- Deposit 
+- Withdrawal 
+- Transfer 
+- Transaction 
+
